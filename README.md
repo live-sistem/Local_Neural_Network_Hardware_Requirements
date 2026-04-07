@@ -1,0 +1,1 @@
+# Local_Neural_Network_Hardware_Requirements
